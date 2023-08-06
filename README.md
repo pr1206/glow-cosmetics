@@ -1,1 +1,1 @@
-# neon-city
+#This repository contains the files for a landing page for Glow Cosmetics, a cruelty-free and organic skincare brand. The landing page gives users the option to sign up for the Glow Cosmetics mailing list.
